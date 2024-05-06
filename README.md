@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**jaytparekh7121994/jaytparekh7121994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Namaste👋
 
 - 🔭 I’m currently working for 5 years and counting as Devops Engineer
@@ -40,4 +35,3 @@
   - ==📫 Gmail== : [Write me](mailto: jaytparekh712@gmail.com)
   - ==⛰️ Instagram== : [Personal](https://www.instagram.com/jay_parekh_jp/)
   - ==🏢 LinkedIn== : [Professional connect](https://www.linkedin.com/in/jay-parekh-56392ba8/)
--->
