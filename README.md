@@ -3,6 +3,7 @@
 - 🔭 I’m currently working for 5 years and counting as Devops Engineer
 - 🌱 I’m currently learning configuration management and monitoring tools
 - 💻 I'm equipped with following key skills and devops tools:
+  
     🗣️ **Language** :
     - 🐍 Python
 
