@@ -3,35 +3,35 @@
 - 🔭 I’m currently working for 5 years and counting as Devops Engineer
 - 🌱 I’m currently learning configuration management and monitoring tools
 - 💻 I'm equipped with following key skills and devops tools:
-    🗣️ ==Language== :
+    🗣️ **Language** :
     - 🐍 Python
 
-    🗃️ ==Containerization== :
+    🗃️ **Containerization** :
     - 🐋 Docker
     
-    📊 ==Monitoting== :
+    📊 **Monitoting** :
     - 🔥 Prometheus and Grafana
     
-    🗄️ ==SCM/VCS== :
+    🗄️ **SCM/VCS** :
     - 🪣 Bitbucket 
     - 🦇 Gitlab 
     
-    🫙 ==Artifact Management== :
+    🫙 **Artifact Management** :
     - 🐸 Jfrog 
     
-    🗒️ ==Configuration management== :
+    🗒️ **Configuration management** :
     - 🧮 Ansible
     - 🐧 Linux server
 
-    🔌 ==CI/CD and Pipelines== : 
+    🔌 **CI/CD and Pipelines** : 
     - 📓 Jenkins Administration and CI/CD
     - 🦇 Gitlab CI/CD
 
-    🤝 ==Support== :
+    🤝 **Support** :
     - Confluence
     - JIRA Ticketing tool
 
 - ### 📫 How to reach me: 
-  - 📫 ==Gmail== : [Write me](mailto: jaytparekh712@gmail.com)
-  - ⛰️ ==Instagram== : [Personal](https://www.instagram.com/jay_parekh_jp/)
-  - 🏢 ==LinkedIn== : [Professional connect](https://www.linkedin.com/in/jay-parekh-56392ba8/)
+  - 📫 **Gmail** : [Write me](mailto: jaytparekh712@gmail.com)
+  - ⛰️ **Instagram** : [Personal](https://www.instagram.com/jay_parekh_jp/)
+  - 🏢 **LinkedIn** : [Professional connect](https://www.linkedin.com/in/jay-parekh-56392ba8/)
