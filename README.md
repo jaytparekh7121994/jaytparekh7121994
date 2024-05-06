@@ -4,16 +4,16 @@
 - 🌱 I’m currently learning configuration management and monitoring tools
 - 💻 I'm equipped with following key skills and devops tools:
 
-  | Syntax      | Description |
-| ----------- | ----------- |
-|🗣️ **Language** | 🐍 Python |
-|🗃️ **Containerization** | 🐋 Docker |
-|📊 **Monitoting** | 🔥 Prometheus and Grafana |    
-|🗄️ **SCM/VCS** | - 🪣 Bitbucket  - 🦇 Gitlab |
-|🫙 **Artifact Management** | 🐸 Jfrog | 
-|🗒️ **Configuration management** | - 🧮 Ansible - 🐧 Linux server |
-| 🔌 **CI/CD and Pipelines** |- 📓 Jenkins Administration and CI/CD  - 🦇 Gitlab CI/CD|
-|🤝 **Support** | - 📰 Confluence - 🎫 JIRA Ticketing tool|
+| Field                      	|  Description                        	|
+|----------------------------	|-------------------------------------	|
+|         🗣️ Language         	|   🐍 Python, Shell Scripting, YAML   	|
+| 🗃️ Containerization         	| 🐋 Docker                            	|   
+| 📊 Monitoting               	| 🔥 Prometheus and Grafana            	|   	
+| 🗄️ SCM/VCS                  	| 🪣 Bitbucket, 🦇 Gitlab               	|   	
+| 🫙 Artifact Management      	| 🐸 Jfrog                             	|   	
+| 🗒️ Configuration management 	| 🧮 Ansible, 🐧 Linux server           	|   	
+| 🔌 CI/CD and Pipelines      	| 📓 Jenkins, 🦇 Gitlab                 	|   	
+| 🤝 Support                  	| 📰 Confluence, 🎫 JIRA Ticketing tool 	|   	
 
 - My forte is:
   - Application Installation
