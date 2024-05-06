@@ -33,6 +33,6 @@
     - JIRA Ticketing tool
 
 - ### 📫 How to reach me: 
-  - 📫 **Gmail** : [Write me](mailto: jaytparekh712@gmail.com)
+  - 📫 **Gmail** : [Write me](mailto:jaytparekh712@gmail.com)
   - ⛰️ **Instagram** : [Personal](https://www.instagram.com/jay_parekh_jp/)
   - 🏢 **LinkedIn** : [Professional connect](https://www.linkedin.com/in/jay-parekh-56392ba8/)
